@@ -14,3 +14,39 @@ Este repositorio contiene el material de las charlas sobre _Aprendizaje Automát
 5. [Introducción a Pandas](https://github.com/wladrod/Python_Ciencias_Datos/blob/master/Notebooks/05-TutorialPandas.ipynb)
 6. [Introducción a Scikit-learn](https://github.com/wladrod/Python_Ciencias_Datos/blob/master/Notebooks/06-TutorialSklearn.ipynb)
 
+## Descargar el Material
+
+Si desea codificar durante el curso, siga estos pasos.
+
+Si está familiarizado con `git`, puedes clonar este repositorio. Para hacerlo en la línea de comando, escriba
+
+```bash
+git clone git@github.com:wladrod/Python_Ciencias_Datos.git
+```
+Si no está familiarizado con git, puede descargar el código directamente desde GitHub.
+
+![descargar zip](figuras/repositorio.png/)
+
+## Instalar Anaconda
+
+*Si no tiene instalado conda o anaconda*, es posible que desee descargar la distribución de Python Anaconda. Vaya a [anaconda.org](https://anaconda.org) y haga clic en Download Anaconda.
+
+![descargar anaconda](figuras/descargar_anaconda.png)
+
+Seleccione la versión de Python 3.X para su sistema operativo (se debe elegir automáticamente). Descargue e instale anaconda.
+
+![python 3](figuras/anaconda.png)
+
+Asegúrate de que puedes ejecutar los Jupyter Notebooks, desde la linea de comando escriba
+
+```bash
+jupyter notebook
+```
+
+También puede utilizar la aplicación `Anaconda Navigator`:
+
+![Anaconda Navigator](figuras/navigator.png)
+
+
+
+
