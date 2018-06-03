@@ -1,4 +1,5 @@
 .DS_Store
+.ipynb_checkpoints/
 Notebooks/.ipynb_checkpoints/
 Notebooks/.DS_Store
 Charlas/.DS_Store
